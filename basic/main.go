@@ -1,9 +1,11 @@
 package main
 
 import (
-	"goStudy/basic/mystring"
+	"goStudy/basic/myarray"
+	// "goStudy/basic/mystring"
 )
 
 func main() {
-	mystring.MyString()
+	// mystring.MyString()
+	myarray.Slice_()
 }
