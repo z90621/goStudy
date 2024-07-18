@@ -3,9 +3,9 @@ package main
 import (
 	// "goStudy/basic/myarray"
 	// "goStudy/basic/mystring"
-	myflow "goStudy/basic/myflowchanl"
+	"goStudy/basic/myerror"
 )
 
 func main() {
-	myflow.MyTest()
+	myerror.MyError()
 }
