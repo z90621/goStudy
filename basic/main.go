@@ -1,11 +1,11 @@
 package main
 
 import (
-	"goStudy/basic/myarray"
+	// "goStudy/basic/myarray"
 	// "goStudy/basic/mystring"
+	myflow "goStudy/basic/myflowchanl"
 )
 
 func main() {
-	// mystring.MyString()
-	myarray.Slice_()
+	myflow.MyTest()
 }
