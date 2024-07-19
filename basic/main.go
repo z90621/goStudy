@@ -1,11 +1,10 @@
 package main
 
 import (
-	// "goStudy/basic/myarray"
-	// "goStudy/basic/mystring"
-	"goStudy/basic/myerror"
+	"goStudy/basic/mystruct"
 )
 
 func main() {
-	myerror.MyError()
+	mystruct.TAnimal()
+
 }
