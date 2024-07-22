@@ -1,10 +1,10 @@
 package main
 
 import (
-	"goStudy/basic/mystruct"
+	"goStudy/basic/mygoroutine"
 )
 
 func main() {
-	mystruct.TAnimal()
+	mygoroutine.SomeApi()
 
 }
