@@ -1,10 +1,7 @@
 package main
 
-import (
-	"goStudy/basic/mygoroutine"
-)
+import "goStudy/basic/mypointer"
 
 func main() {
-	mygoroutine.SomeApi()
-
+	mypointer.Main()
 }
